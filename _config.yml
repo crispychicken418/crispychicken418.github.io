@@ -1,13 +1,13 @@
 # Site settings
-title: Tong's Blog
-SEOTitle: Tong's This Is It
+title: Crispy chicken
+SEOTitle: crispy_chicken in your area
 header-img: img/mallorca.jpg
-email: ling_tong@outlook.com
+email: yihui_wang9@outlook.com
 description: "Learning by doing."
 keyword: "SLAM, German"
-url: "http://tongling916.github.io"          # your host, for absolute URL
+url: "http://crispychicken418.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/tongling916/tongling916.github.io.git" # you code repository
+github_repo: "https://github.com/crispychicken418/crispychicken418.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-me-2.jpg      # use absolute URL, seeing it's used in
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    tongling916
+github_username:    crispychicken418
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
